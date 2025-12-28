@@ -145,8 +145,6 @@ Classroom-Noise-Monitor/
 │   ├── circuit_diagram.png
 │   ├── system_architecture.png
 │
-├── Docs/
-│   ├── project_report.pdf
 │
 ├── README.md
 ```
